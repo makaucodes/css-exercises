@@ -1,0 +1,22 @@
+* {
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.oddelmt {
+	background-color: #ffb6c1;
+}
+
+#frsteven {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+#scndodd {
+	font-size: 24px;
+}
+
+#scndeven {
+	background-color: #90ee90;
+	font-size: 24px;
+	font-weight: bold;
+}
